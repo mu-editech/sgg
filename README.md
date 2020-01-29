@@ -10,12 +10,13 @@ S3の特定位置にPDFの給与・賞与明細をPUTすると、自動でデー
 PDFの帳票をCSVに変換しBIツールにて可視化するので、振込明細など似たインプットを持つシステムにも応用可能な点がメリット。
 
 ### DynamoDBイメージ
+<img width="1086" alt="dynamoDB_table" src="https://user-images.githubusercontent.com/58851029/73407089-67b0e880-433b-11ea-9ebd-c79f78d4c1c6.png">
 
 ### ダッシュボードイメージ
 
 
 # Architect
-※AWSの構成図画像を添付
+![Salary-Graph-Generator](https://user-images.githubusercontent.com/58851029/73407007-405a1b80-433b-11ea-8464-9ae7e392627c.png)
 
 ### 処理フロー
 1. S3の特定の場所に給与明細データをアップロードしておく
