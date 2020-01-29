@@ -1,0 +1,17 @@
+
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://salary-gg/t-sum-salary/sgg-salary-bonus.csv"
+
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "\"",
+        "containsHeader": "true"
+    }
+}

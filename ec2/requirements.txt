@@ -1,0 +1,3 @@
+camelot-py[cv]
+boto3
+pytest
