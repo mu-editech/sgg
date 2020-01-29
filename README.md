@@ -13,7 +13,7 @@ PDFの帳票をCSVに変換しBIツールにて可視化するので、振込明
 <img width="1086" alt="dynamoDB_table" src="https://user-images.githubusercontent.com/58851029/73407089-67b0e880-433b-11ea-9ebd-c79f78d4c1c6.png">
 
 ### ダッシュボードイメージ
-
+<img width="1278" alt="quicksight-graph" src="https://user-images.githubusercontent.com/58851029/73407804-9a5be080-433d-11ea-85c2-e41e733ad05e.png">
 
 # Architect
 ![Salary-Graph-Generator](https://user-images.githubusercontent.com/58851029/73407007-405a1b80-433b-11ea-8464-9ae7e392627c.png)
